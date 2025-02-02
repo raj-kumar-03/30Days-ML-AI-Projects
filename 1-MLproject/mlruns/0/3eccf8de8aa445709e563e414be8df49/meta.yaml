@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3eccf8de8aa445709e563e414be8df49/artifacts
+end_time: 1738485690642
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3eccf8de8aa445709e563e414be8df49
+run_name: RandomForest_Model_2
+run_uuid: 3eccf8de8aa445709e563e414be8df49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738485456397
+status: 3
+tags: []
+user_id: rajkumar
